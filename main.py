@@ -3,7 +3,7 @@ import tkinter as tk
 import requests, time, math
 
 global apikey
-apikey = "871c164a-bddd-4937-9cc0-94d4b5031d47" 
+apikey = "########-####-####-####-############" 
 
 def hypixelinfo(canvas):
     global apikey
